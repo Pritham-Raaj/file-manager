@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# Runtime data (created when the app runs — not source code)
+*.log
+assistant-files/
+.file-assistant-db/
+
+# Cowork internal
+code-develop.skill
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Development tools
+.USER_GUIDE.md
+.LocalAI_FileAssistant_Proposal.pdf
